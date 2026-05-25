@@ -1,0 +1,19 @@
+.PaginadorContainer {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  padding-top: 20px;
+}
+
+.PaginadorContainer h1 {
+  font-size: 25px;
+  color: green;
+}
+
+.arrowContainer {
+  width: 40px;
+  height: 40px;
+  border: 1px solid blue;
+  text-align: center;
+  cursor: pointer;
+}
